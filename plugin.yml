@@ -1,0 +1,12 @@
+name: HanbunBreaker
+main: amata1219.hanbun.breaker.HanbunBreaker
+version: 1.2
+author: amata1219(Twitter@amata1219)
+
+commands:
+  hanbun:
+    description: main command.
+    usage: /<command>
+    aliases: h
+    permission: hanbun.breaker.hanbun
+    permission-message: You do not have permission(<permission>).
